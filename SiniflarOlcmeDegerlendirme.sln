@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiniflarOlcmeDegerlendirme", "SiniflarOlcmeDegerlendirme\SiniflarOlcmeDegerlendirme.csproj", "{EADEBB88-126B-4CA4-AEA9-EB1CCBE63164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EADEBB88-126B-4CA4-AEA9-EB1CCBE63164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADEBB88-126B-4CA4-AEA9-EB1CCBE63164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADEBB88-126B-4CA4-AEA9-EB1CCBE63164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADEBB88-126B-4CA4-AEA9-EB1CCBE63164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE0EB7A-4A54-421D-8910-6894A3BB0B04}
+	EndGlobalSection
+EndGlobal
