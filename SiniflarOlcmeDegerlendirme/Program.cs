@@ -12,15 +12,18 @@ namespace SiniflarOlcmeDegerlendirme
         {
             AkilliTelevizyon akilliTelevizyon = new AkilliTelevizyon();
             akilliTelevizyon.ses_seviyesi = 5;
+            Televizyon televizyon = new Televizyon();   
+            televizyon.
         }
     }
 
     public class Televizyon
     {
         protected internal ushort ses_seviyesi;
-        double ekran_boyutu;
-        string goruntu_teknolojisi;
-        public byte kanal_no = 0;
+        public double ekran_boyutu;
+        public string goruntu_teknolojisi;
+        public const string Marka = "Samsung";
+        public int kanal_no = 0;
         public virtual void guc_ac_kapat()
         {
 
@@ -45,12 +48,12 @@ namespace SiniflarOlcmeDegerlendirme
             kanal_no--;
         }
 
-        public void KanalNoArtir(byte sayi)
+        public void KanalNoArtir(int sayi)
         {
             kanal_no+= sayi;
         }
 
-        public void KanalNoAzalt(byte sayi)
+        public void KanalNoAzalt(int sayi)
         {
             kanal_no -= sayi;
         }
