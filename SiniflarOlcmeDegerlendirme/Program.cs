@@ -11,12 +11,10 @@ namespace SiniflarOlcmeDegerlendirme
         static void Main(string[] args)
         {
             AkilliTelevizyon akilliTelevizyon = new AkilliTelevizyon();
+            Televizyon televizyon = new Televizyon();
             akilliTelevizyon.ses_seviyesi = 5;
-            Console.WriteLine(AkilliTelevizyon.Marka);
-            Televizyon televizyon = new Televizyon();          
+            Console.WriteLine(AkilliTelevizyon.Marka);         
             Console.WriteLine(Televizyon.Marka);
-            
-          
         }
     }
 
