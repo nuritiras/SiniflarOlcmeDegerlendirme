@@ -17,7 +17,7 @@ namespace SiniflarOlcmeDegerlendirme
             Console.WriteLine(Televizyon.Marka);
         }
     }
-
+    // İlk Dokuz sorunun çözümü
     public class Televizyon
     {
         protected internal ushort ses_seviyesi;
