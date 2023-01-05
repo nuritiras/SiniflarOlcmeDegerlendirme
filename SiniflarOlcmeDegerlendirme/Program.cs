@@ -12,7 +12,10 @@ namespace SiniflarOlcmeDegerlendirme
         {
             AkilliTelevizyon akilliTelevizyon = new AkilliTelevizyon();
             akilliTelevizyon.ses_seviyesi = 5;
-            Televizyon televizyon = new Televizyon();
+            Console.WriteLine(AkilliTelevizyon.Marka);
+            Televizyon televizyon = new Televizyon();          
+            Console.WriteLine(Televizyon.Marka);
+            
           
         }
     }
