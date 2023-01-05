@@ -12,8 +12,8 @@ namespace SiniflarOlcmeDegerlendirme
         {
             AkilliTelevizyon akilliTelevizyon = new AkilliTelevizyon();
             akilliTelevizyon.ses_seviyesi = 5;
-            Televizyon televizyon = new Televizyon();   
-            televizyon.
+            Televizyon televizyon = new Televizyon();
+            televizyon.ekran_boyutu = 17.3;
         }
     }
 
