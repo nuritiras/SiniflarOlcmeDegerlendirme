@@ -1,1 +1,1 @@
-[embed]https://github.com/nuritiras/SiniflarOlcmeDegerlendirme/blob/master/SiniflarOlcmeDegerlendirmeSoruları.pdf[/embed]
+[embed]https://github.com/nuritiras/SiniflarOlcmeDegerlendirme/blob/master/SiniflarOlcmeDegerlendirmeSorulari.pdf[/embed]
