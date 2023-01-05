@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiniflarOlcmeDegerlendirme", "SiniflarOlcmeDegerlendirme\SiniflarOlcmeDegerlendirme.csproj", "{EADEBB88-126B-4CA4-AEA9-EB1CCBE63164}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ilkDokuzSoru", "SiniflarOlcmeDegerlendirme\ilkDokuzSoru.csproj", "{EADEBB88-126B-4CA4-AEA9-EB1CCBE63164}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OndorduncuSoru", "OndorduncuSoru\OndorduncuSoru.csproj", "{CFF59CB8-9252-4425-80B3-44BF7B68C8BC}"
 EndProject
