@@ -16,5 +16,14 @@ Nesne hafızadan atıldığı anda otomatik olarak çalışan <b>yıkıcı metot
 • Yıkıcı metotlar aşırı yüklenemez.<br>
 • Yıkıcı metotlar parametre alamaz.<br>
 • Yıkıcı metotların erişim belirleyicisi olamaz.<br>
-#### 17. STATİK SINIFLAR (STATIC CLASSES)
+#### 17. Statik sınıflar hangi durumlarda kullanılır?
 Oluşturduğumuz sınıf içerisinde sadece static metotlar ve değişkenler bulunuyorsa sınıfı static olarak tanımlayabiliriz. Statik ögeler genellikle nesnelerin durumuna göre değişmeyen verileri temsil etmede veya hesaplamaları yapmada kullanılır. Buna en güzel örnek, .NET Sınıf Kütüphanesi’ndeki Math sınıfıdır. 
+#### 18. Statik yapıcı metotlar ne zaman çalıştırılır?
+Statik yapıcı metot mutlaka ilk nesne tanımlandığında çalıştırılır.
+#### 19. Arayüzler ile Soyut sınıf arasındaki benzerlikler ve farklılıklar
+Bir sınıf birden fazla arayüzden türetilebilir. Bir sınıf sadece tek bir soyut sınıftan türetilebilir. <br>
+Sadece boş (gövdesi olmayan) metotlar tanımlanabilir. Hem normal metot hem de boş metotlar tanımlanabilir. <br>
+Çoklu kalıtım özelliği sağlar. Çoklu kalıtım özelliği sağlamaz.<br>
+Tüm ögeler public olarak kabul edilir. Ögeler public olmak zorunda değildir.<br>
+Yapıcı metot içeremez. Yapıcı metot içerebilir.<br>
+Statik ögeler barındıramaz. Statik ögeler barındırabilir.<br>
